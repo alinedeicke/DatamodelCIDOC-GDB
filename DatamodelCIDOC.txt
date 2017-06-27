@@ -1,0 +1,406 @@
+<ul class="graph-diagram-markup" data-internal-scale="0.65" data-external-scale="1">
+  <li class="node" data-node-id="0" data-x="515.2678762625793" data-y="616.3412278119253">
+    <span class="caption">E92 Spacetime Volume</span>
+  </li>
+  <li class="node" data-node-id="1" data-x="291.66239416569545" data-y="-249.29577464788724">
+    <span class="caption">E22</span>
+  </li>
+  <li class="node" data-node-id="2" data-x="515.2678762625793" data-y="-249.29577464788724">
+    <span class="caption">E57 Material</span>
+  </li>
+  <li class="node" data-node-id="3" data-x="-79.20844991442172" data-y="-249.29577464788724">
+    <span class="caption">E19 Physical Object</span>
+  </li>
+  <li class="node" data-node-id="4" data-x="291.66239416569545" data-y="616.3412278119253">
+    <span class="caption">E55 Type</span>
+  </li>
+  <li class="node" data-node-id="5" data-x="291.66239416569545" data-y="256.3300563242338">
+    <span class="caption">E22 Man-Made Object</span>
+  </li>
+  <li class="node" data-node-id="6" data-x="1214.199504179112" data-y="-249.29577464788724">
+    <span class="caption">E55 Type</span>
+  </li>
+  <li class="node" data-node-id="7" data-x="1214.199504179112" data-y="256.3300563242338">
+    <span class="caption">E55 Type</span>
+  </li>
+  <li class="node" data-node-id="8" data-x="-379.40583038330027" data-y="256.3300563242338">
+    <span class="caption">E20 Biological Object</span>
+  </li>
+  <li class="node" data-node-id="9" data-x="-779.4419035070082" data-y="256.3300563242338">
+    <span class="caption">E20 Biological Object</span>
+  </li>
+  <li class="node" data-node-id="10" data-x="-79.20844991442172" data-y="256.3300563242338">
+    <span class="caption">E25 Man-Made Feature</span>
+  </li>
+  <li class="node" data-node-id="11" data-x="-79.20844991442172" data-y="-559.1440384808709">
+    <span class="caption">E55 Type</span>
+  </li>
+  <li class="node" data-node-id="12" data-x="-334.53390780893744" data-y="-559.1440384808709">
+    <span class="caption">E27 Site</span>
+  </li>
+  <li class="node" data-node-id="13" data-x="-779.4419035070082" data-y="-559.1440384808709">
+    <span class="caption">E53 Place</span>
+  </li>
+  <li class="node" data-node-id="14" data-x="-779.4419035070082" data-y="-951.1539531034584">
+    <span class="caption">E53</span>
+  </li>
+  <li class="node" data-node-id="15" data-x="845.1589059268733" data-y="-559.1440384808709">
+    <span class="caption">E4 Period</span>
+  </li>
+  <li class="node" data-node-id="16" data-x="564.0877849915461" data-y="-907.3440185618842">
+    <span class="caption">E4</span>
+  </li>
+  <li class="node" data-node-id="17" data-x="845.1589059268733" data-y="-951.1539531034584">
+    <span class="caption">E4</span>
+  </li>
+  <li class="node" data-node-id="18" data-x="1068.251589743906" data-y="-907.3440185618842">
+    <span class="caption">E4</span>
+  </li>
+  <li class="node" data-node-id="19" data-x="1214.199504179112" data-y="-559.1440384808709">
+    <span class="caption">E53</span>
+  </li>
+  <li class="node" data-node-id="20" data-x="-1752.5268568712108" data-y="-249.29577464788724"></li>
+  <li class="node" data-node-id="21" data-x="-1387.158964300908" data-y="-249.29577464788724">
+    <span class="caption">E31 Document</span>
+  </li>
+  <li class="node" data-node-id="22" data-x="-1387.158964300908" data-y="616.3412278119253">
+    <span class="caption">E39 Actor</span>
+  </li>
+  <li class="node" data-node-id="23" data-x="845.1589059268733" data-y="616.3412278119253">
+    <span class="caption">E53 Place</span>
+  </li>
+  <li class="node" data-node-id="24" data-x="-334.53390780893744" data-y="-951.1539531034584">
+    <span class="caption">E55 Type</span>
+  </li>
+  <li class="node" data-node-id="25" data-x="-1137.6123298196217" data-y="-559.1440384808709">
+    <span class="caption">E44 Place Appellation</span>
+  </li>
+  <li class="node" data-node-id="26" data-x="-1137.6123298196217" data-y="-951.1539531034584">
+    <span class="caption">E94 Space Primitive </span>
+  </li>
+  <li class="node" data-node-id="27" data-x="-1137.6123298196217" data-y="616.3412278119253">
+    <span class="caption">E21 Person</span>
+  </li>
+  <li class="node" data-node-id="28" data-x="-379.40583038330027" data-y="616.3412278119253">
+    <span class="caption">E54 Dimension</span>
+  </li>
+  <li class="node" data-node-id="29" data-x="-1137.6123298196217" data-y="-62.924942741567506">
+    <span class="caption">E3 Condition State</span>
+  </li>
+  <li class="node" data-node-id="30" data-x="-79.20844991442172" data-y="972.4768335678993">
+    <span class="caption">E60 Number</span>
+  </li>
+  <li class="node" data-node-id="31" data-x="-379.40583038330027" data-y="972.4768335678993">
+    <span class="caption">E58 Measurement Unit</span>
+  </li>
+  <li class="node" data-node-id="32" data-x="845.1589059268733" data-y="256.3300563242338">
+    <span class="caption">E17 Type Assignment</span>
+  </li>
+  <li class="node" data-node-id="33" data-x="-1387.158964300908" data-y="972.4768335678993">
+    <span class="caption">E82 Actor Appellation</span>
+  </li>
+  <li class="node" data-node-id="34" data-x="-1752.5268568712108" data-y="-559.1440384808709"></li>
+  <li class="node" data-node-id="35" data-x="-1387.158964300908" data-y="-559.1440384808709">
+    <span class="caption">E42 Identifier</span>
+  </li>
+  <li class="node" data-node-id="36" data-x="105.92978578455308" data-y="-559.1440384808709">
+    <span class="caption">E41 Appellation</span>
+  </li>
+  <li class="node" data-node-id="37" data-x="515.2678762625793" data-y="972.4768335678993">
+    <span class="caption">E41 Appellation</span>
+  </li>
+  <li class="node" data-node-id="38" data-x="291.66239416569545" data-y="-559.1440384808709">
+    <span class="caption">E52 Time-Span</span>
+  </li>
+  <li class="node" data-node-id="39" data-x="291.66239416569545" data-y="-951.1539531034584">
+    <span class="caption">E49 Time Appellation</span>
+  </li>
+  <li class="node" data-node-id="40" data-x="-1387.158964300908" data-y="256.3300563242338">
+    <span class="caption">E65 Creation</span>
+  </li>
+  <li class="node" data-node-id="41" data-x="-379.40583038330027" data-y="-135.75720097468448">
+    <span class="caption">E55 Type</span>
+  </li>
+  <li class="node" data-node-id="43" data-x="-534.6406617730992" data-y="-951.1539531034584">
+    <span class="caption">E55 Type</span>
+  </li>
+  <li class="node" data-node-id="44" data-x="1214.199504179112" data-y="616.3412278119253">
+    <span class="caption">E55 Type</span>
+  </li>
+  <li class="node" data-node-id="45" data-x="-379.40583038330027" data-y="-396.3693847656253">
+    <span class="caption">E7 Activity</span>
+  </li>
+  <li class="node" data-node-id="46" data-x="-779.4419035070082" data-y="-249.29577464788724">
+    <span class="caption">E39</span>
+  </li>
+  <li class="node" data-node-id="47" data-x="-779.4419035070082" data-y="-396.3693847656253">
+    <span class="caption">E52 Time-Span</span>
+  </li>
+  <li class="node" data-node-id="48" data-x="-779.4419035070082" data-y="616.3412278119253">
+    <span class="caption">E16 Measurement</span>
+  </li>
+  <li class="node" data-node-id="49" data-x="564.0877849915461" data-y="-0.7446183165811422">
+    <span class="caption">E39</span>
+  </li>
+  <li class="node" data-node-id="50" data-x="845.1589059268733" data-y="-249.29577464788724">
+    <span class="caption">E83 Type Creation</span>
+  </li>
+  <li class="node" data-node-id="51" data-x="1214.199504179112" data-y="777.4344538551949">
+    <span class="caption">E44 Place Appellation</span>
+  </li>
+  <li class="node" data-node-id="52" data-x="-779.4419035070082" data-y="972.4768335678993">
+    <span class="caption">E39</span>
+  </li>
+  <li class="node" data-node-id="53" data-x="-1137.6123298196217" data-y="-396.3693847656253">
+    <span class="caption">E50 Date</span>
+  </li>
+  <li class="node" data-node-id="54" data-x="-1752.5268568712108" data-y="-396.3693847656253"></li>
+  <li class="node" data-node-id="55" data-x="-1387.158964300908" data-y="-396.3693847656253">
+    <span class="caption">E62 String</span>
+  </li>
+  <li class="node" data-node-id="56" data-x="-1603.4302188648892" data-y="616.3412278119253">
+    <span class="caption">E52 Time-Span</span>
+  </li>
+  <li class="node" data-node-id="57" data-x="-1603.4302188648892" data-y="972.4768335678993">
+    <span class="caption">E50 Date</span>
+  </li>
+  <li class="node" data-node-id="58" data-x="-1603.4302188648892" data-y="-0.7446183165811422">
+    <span class="caption">E35 Title</span>
+  </li>
+  <li class="node" data-node-id="59" data-x="-79.20844991442172" data-y="-951.1539531034584">
+    <span class="caption">E65 Creation</span>
+  </li>
+  <li class="node" data-node-id="60" data-x="-79.20844991442172" data-y="-644.8257877125452">
+    <span class="caption">E39</span>
+  </li>
+  <li class="node" data-node-id="61" data-x="1214.199504179112" data-y="-756.830598166626">
+    <span class="caption">E4</span>
+  </li>
+  <li class="node" data-node-id="62" data-x="1214.199504179112" data-y="481.05656522863046">
+    <span class="caption">E53</span>
+  </li>
+  <li class="node" data-node-id="63" data-x="515.2678762625793" data-y="-644.8257877125452">
+    <span class="caption">E49</span>
+  </li>
+  <li class="node" data-node-id="64" data-x="-1387.158964300908" data-y="-951.1539531034584">
+    <span class="caption">E15 Identifier Assignment</span>
+  </li>
+  <li class="node" data-node-id="65" data-x="-1752.5268568712108" data-y="-951.1539531034584">
+    <span class="caption">E39</span>
+  </li>
+  <li class="relationship" data-from="1" data-to="3">
+    <span class="type">P46 forms part of</span>
+  </li>
+  <li class="relationship" data-from="1" data-to="5">
+    <span class="type">P46 forms part of</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="3">
+    <span class="type">P46 forms part of</span>
+  </li>
+  <li class="relationship" data-from="6" data-to="7">
+    <span class="type">P127 has broader term</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="4">
+    <span class="type">P2 has type</span>
+  </li>
+  <li class="relationship" data-from="8" data-to="3">
+    <span class="type">P46 forms part of</span>
+  </li>
+  <li class="relationship" data-from="9" data-to="3">
+    <span class="type">P46 forms part of</span>
+  </li>
+  <li class="relationship" data-from="10" data-to="3">
+    <span class="type">P46 forms part of</span>
+  </li>
+  <li class="relationship" data-from="10" data-to="4">
+    <span class="type">P2 has type</span>
+  </li>
+  <li class="relationship" data-from="3" data-to="11">
+    <span class="type">P2 has type</span>
+  </li>
+  <li class="relationship" data-from="12" data-to="3">
+    <span class="type">P46 is composed of </span>
+  </li>
+  <li class="relationship" data-from="12" data-to="13">
+    <span class="type">P53 has former or current location</span>
+  </li>
+  <li class="relationship" data-from="13" data-to="14">
+    <span class="type">P89 falls within</span>
+  </li>
+  <li class="relationship" data-from="3" data-to="15">
+    <span class="type">P10 falls within</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="16">
+    <span class="type">P119 meets in time with</span>
+  </li>
+  <li class="relationship" data-from="17" data-to="15">
+    <span class="type">P114 is equal in time to</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="18">
+    <span class="type">P9 forms part of</span>
+  </li>
+  <li class="relationship" data-from="21" data-to="20">
+    <span class="type">P70 documents</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="0">
+    <span class="type">P10 falls within</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="23">
+    <span class="type">P7 took place at </span>
+  </li>
+  <li class="relationship" data-from="6" data-to="15">
+    <span class="type">xxxP10 falls within (range eigtl. E92)xxx</span>
+  </li>
+  <li class="relationship" data-from="12" data-to="24">
+    <span class="type">P2 has type</span>
+  </li>
+  <li class="relationship" data-from="13" data-to="25">
+    <span class="type">P87 is identified by</span>
+  </li>
+  <li class="relationship" data-from="13" data-to="26">
+    <span class="type">P168 place is defined by</span>
+  </li>
+  <li class="relationship" data-from="9" data-to="27">
+    <span class="type">P46 forms part of</span>
+  </li>
+  <li class="relationship" data-from="10" data-to="28">
+    <span class="type">P43 has dimension </span>
+  </li>
+  <li class="relationship" data-from="8" data-to="28">
+    <span class="type">P43 has dimension </span>
+  </li>
+  <li class="relationship" data-from="5" data-to="28">
+    <span class="type">P43 has dimension </span>
+  </li>
+  <li class="relationship" data-from="10" data-to="29">
+    <span class="type">P44 has condition</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="29">
+    <span class="type">P44 has condition</span>
+  </li>
+  <li class="relationship" data-from="9" data-to="29">
+    <span class="type">P44 has condition</span>
+  </li>
+  <li class="relationship" data-from="8" data-to="29">
+    <span class="type">P44 has condition</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="2">
+    <span class="type">P45 consists of</span>
+  </li>
+  <li class="relationship" data-from="28" data-to="30">
+    <span class="type">P90 has value</span>
+  </li>
+  <li class="relationship" data-from="28" data-to="31">
+    <span class="type">P91 has unit</span>
+  </li>
+  <li class="relationship" data-from="32" data-to="6">
+    <span class="type">P42 assigned</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="32">
+    <span class="type">P41 was classified</span>
+  </li>
+  <li class="relationship" data-from="22" data-to="33">
+    <span class="type">P131 is identified by</span>
+  </li>
+  <li class="relationship" data-from="34" data-to="35">
+    <span class="type">P48 has preferred identifier</span>
+  </li>
+  <li class="relationship" data-from="3" data-to="36">
+    <span class="type">P1 is identified by</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="19">
+    <span class="type">P7 took place at </span>
+  </li>
+  <li class="relationship" data-from="15" data-to="38">
+    <span class="type">P4 has time-span </span>
+  </li>
+  <li class="relationship" data-from="38" data-to="39">
+    <span class="type">P78 is identified by </span>
+  </li>
+  <li class="relationship" data-from="21" data-to="40">
+    <span class="type">P94 was created by</span>
+  </li>
+  <li class="relationship" data-from="40" data-to="22">
+    <span class="type">P14 carried out by</span>
+  </li>
+  <li class="relationship" data-from="13" data-to="43">
+    <span class="type">P2 has type</span>
+  </li>
+  <li class="relationship" data-from="23" data-to="44">
+    <span class="type">P2 has type</span>
+  </li>
+  <li class="relationship" data-from="3" data-to="45">
+    <span class="type">P12 was present at</span>
+  </li>
+  <li class="relationship" data-from="45" data-to="46">
+    <span class="type">P14 carried out by</span>
+  </li>
+  <li class="relationship" data-from="45" data-to="47">
+    <span class="type">P4 has time-span </span>
+  </li>
+  <li class="relationship" data-from="48" data-to="9">
+    <span class="type">P39 measured</span>
+  </li>
+  <li class="relationship" data-from="48" data-to="28">
+    <span class="type">P40 observed dimension</span><dl class="properties"><dt>sex, age</dt><dd>dimension?</dd></dl></li>
+  <li class="relationship" data-from="32" data-to="49">
+    <span class="type">P14 carried out by</span>
+  </li>
+  <li class="relationship" data-from="6" data-to="50">
+    <span class="type">P135 was created by</span>
+  </li>
+  <li class="relationship" data-from="50" data-to="49">
+    <span class="type">P14 carried out by</span>
+  </li>
+  <li class="relationship" data-from="23" data-to="51">
+    <span class="type">P87 is identified by</span>
+  </li>
+  <li class="relationship" data-from="48" data-to="52">
+    <span class="type">P14 carried out by</span>
+  </li>
+  <li class="relationship" data-from="47" data-to="53">
+    <span class="type">P78 is identified by </span>
+  </li>
+  <li class="relationship" data-from="8" data-to="4">
+    <span class="type">P2 has type</span>
+  </li>
+  <li class="relationship" data-from="54" data-to="55">
+    <span class="type">P3 has note</span>
+  </li>
+  <li class="relationship" data-from="40" data-to="56">
+    <span class="type">P4 has time-span</span>
+  </li>
+  <li class="relationship" data-from="56" data-to="57">
+    <span class="type">P78 is identified by </span>
+  </li>
+  <li class="relationship" data-from="21" data-to="58">
+    <span class="type">P102 has title</span>
+  </li>
+  <li class="relationship" data-from="39" data-to="59">
+    <span class="type">P94 was created by</span>
+  </li>
+  <li class="relationship" data-from="59" data-to="60">
+    <span class="type">P14 carried out by</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="61">
+    <span class="type">P118 overlaps in time with</span>
+  </li>
+  <li class="relationship" data-from="23" data-to="62">
+    <span class="type">P89 falls within</span>
+  </li>
+  <li class="relationship" data-from="39" data-to="63">
+    <span class="type">P139 has alternative form</span>
+  </li>
+  <li class="relationship" data-from="35" data-to="64">
+    <span class="type">P37 was assigned by</span>
+  </li>
+  <li class="relationship" data-from="64" data-to="65">
+    <span class="type">P14 carried out by</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="37">
+    <span class="type">P1 is identified by</span>
+  </li>
+  <li class="relationship" data-from="45" data-to="41">
+    <span class="type">P2 has type</span>
+  </li>
+</ul>

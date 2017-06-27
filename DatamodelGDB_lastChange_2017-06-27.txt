@@ -1,0 +1,140 @@
+<ul class="graph-diagram-markup" data-internal-scale="0.7" data-external-scale="1">
+  <li class="node" data-node-id="0" data-x="316.1139228616091" data-y="754.8844299316399">
+    <span class="caption">:E92_Spacetime _Volume</span><dl class="properties"><dt>name</dt><dd>P1 - E41 Appellation</dd></dl></li>
+  <li class="node" data-node-id="1" data-x="418.0974245893734" data-y="66.66221541159852">
+    <span class="caption">:E22_Man-Made _Object :Part_Of</span>
+  </li>
+  <li class="node" data-node-id="2" data-x="-79.20844991442172" data-y="965.4079734442224">
+    <span class="caption">:E57_Material</span><dl class="properties"><dt>name</dt><dd>type of Material</dd></dl></li>
+  <li class="node" data-node-id="3" data-x="-79.20844991442172" data-y="-249.29577464788724">
+    <span class="caption">:E19_Physical _Object</span><dl class="properties"><dt>name</dt><dd>P1 - E41 Appellation</dd><dt>origin</dt><dd>P12 - E7 Activity - P2 - E55 Type</dd><dt>excavator</dt><dd>P12 - E7 Activity - P114 - E39 Actor</dd><dt>dateOfDiscovery</dt><dd>P12 - E7 Activity - P4 - E52 Time-Span - P78 - E50 Date</dd></dl></li>
+  <li class="node" data-node-id="4" data-x="-405.79459817068874" data-y="965.4079734442224">
+    <span class="caption">:E55_Type :Object</span><dl class="properties"><dt>name</dt><dd>type of Object</dd></dl></li>
+  <li class="node" data-node-id="5" data-x="-79.20844991442172" data-y="420.63392689214203">
+    <span class="caption">:E22_Man-Made _Object</span><dl class="properties"><dt>measurements</dt><dd>P43 - E54 Dimension (P90 - E60 Number + P91 - E58 Measurement Unit)</dd></dl></li>
+  <li class="node" data-node-id="6" data-x="648.2644455853628" data-y="420.63392689214203">
+    <span class="caption">:E55_Type :Typology</span><dl class="properties"><dt>name</dt><dd>name of type</dd><dt>typeCreator</dt><dd>P135 - E83 Type Creation - P14 - E39 Actor</dd></dl></li>
+  <li class="node" data-node-id="7" data-x="1171.0008863906494" data-y="420.63392689214203">
+    <span class="caption">:E55_Type :Typology</span>
+  </li>
+  <li class="node" data-node-id="8" data-x="-667.9430129304562" data-y="122.950626352455">
+    <span class="caption">:E20_Biological _Object</span><dl class="properties"><dt>animal</dt><dd>P2 - E55 Type</dd><dt>bones</dt><dd>P43 - E54 Dimension (P90 - E60 Number + P91 - E58 Measurement Unit)</dd></dl></li>
+  <li class="node" data-node-id="10" data-x="-405.79459817068874" data-y="291.22610037417786">
+    <span class="caption">:E25_Man-Made _Feature</span><dl class="properties"><dt>description</dt><dd>P3 - E62 String (= note)</dd><dt>subtype</dt><dd>P2 - E55 type</dd><dt>measurements</dt><dd>P43 - E54 Dimension (P90 - E60 Number + P91 - E58 Measurement Unit)</dd></dl></li>
+  <li class="node" data-node-id="11" data-x="-79.20844991442172" data-y="-687.1869814083042">
+    <span class="caption">:E55_Type :Deposition_Type</span><dl class="properties"><dt>name</dt><dd>type of deposition</dd></dl></li>
+  <li class="node" data-node-id="12" data-x="-561.5706769503079" data-y="-687.1869814083042">
+    <span class="caption">:E27_Site</span>
+  </li>
+  <li class="node" data-node-id="13" data-x="-1198.1602998799992" data-y="-471.6674900659063">
+    <span class="caption">:E53_Place</span><dl class="properties"><dt>name</dt><dd>P87 - E44 Place Appellation</dd><dt>type</dt><dd>P2 - E55 Type</dd><dt>coordinates</dt><dd>P168 - E94 Space Primitive</dd></dl></li>
+  <li class="node" data-node-id="14" data-x="-561.5706769503079" data-y="-471.6674900659063">
+    <span class="caption">:E53_Place</span>
+  </li>
+  <li class="node" data-node-id="15" data-x="648.2644455853628" data-y="-169.99825659891974">
+    <span class="caption">:E4_Period</span><dl class="properties"><dt>name</dt><dd>P4 - E52 Time-Span - P78 - E49 Time Appellation</dd><dt>alternate{integer}</dt><dd>name + P139 - E49 Time Appellation</dd><dt>createdBy</dt><dd>name + P94 - E65 Creation - P14 - E39 Actor</dd></dl></li>
+  <li class="node" data-node-id="16" data-x="743.4983510841598" data-y="262.80741228126476">
+    <span class="caption">:E4_Period</span>
+  </li>
+  <li class="node" data-node-id="17" data-x="1146.6240083858427" data-y="262.80741228126476">
+    <span class="caption">:E4_Period</span>
+  </li>
+  <li class="node" data-node-id="18" data-x="1146.6240083858427" data-y="66.66221541159852">
+    <span class="caption">:E4_Period</span>
+  </li>
+  <li class="node" data-node-id="19" data-x="1146.6240083858427" data-y="-249.29577464788724">
+    <span class="caption">:E53_Place</span>
+  </li>
+  <li class="node" data-node-id="20" data-x="-2067.990060049871" data-y="965.4079734442224"></li>
+  <li class="node" data-node-id="21" data-x="-1487.8767981028484" data-y="965.4079734442224">
+    <span class="caption">:E31_Document</span><dl class="properties"><dt>fullRef</dt><dd>full reference</dd><dt>title</dt><dd>P 102 - E35 title</dd><dt>year</dt><dd>P94 - E65 Creation - P4 - E52 Time-Span - P78 - E50 Date</dd></dl></li>
+  <li class="node" data-node-id="22" data-x="-1487.8767981028484" data-y="673.9627917338426">
+    <span class="caption">:E39_Actor</span><dl class="properties"><dt>name</dt><dd>P131 - E82 Actor Appellation</dd></dl></li>
+  <li class="node" data-node-id="23" data-x="743.4983510841598" data-y="754.8844299316399">
+    <span class="caption">:E53_Place</span>
+  </li>
+  <li class="node" data-node-id="24" data-x="-1198.1602998799992" data-y="-687.1869814083042">
+    <span class="caption">:E55_Type :Site_Type</span><dl class="properties"><dt>name</dt><dd>type of site</dd></dl></li>
+  <li class="node" data-node-id="27" data-x="-667.9430129304562" data-y="-249.29577464788724">
+    <span class="caption">:E21_Person</span><dl class="properties"><dt>type</dt><dd>P44 - E3 Condition State</dd><dt>orientation</dt><dd>orientation</dd><dt>anthropologist</dt><dd>P46 - E20 Biological Object - P39 - E16 Measurement - P14 - E39 Actor</dd><dt>sex</dt><dd>P46 - E20 Biological Object - P39 - E16 Measurement - P40 - E54 Dimension (P90 - E60 Number + P91 - E58 Measurement Unit)</dd><dt>age</dt><dd>P46 - E20 Biological Object - P39 - E16 Measurement - P40 - E54 Dimension (P90 - E60 Number + P91 - E58 Measurement Unit)</dd><dt>weight (if cremation)</dt><dd>P46 - E20 Biological Object - P39 - E16 Measurement - P40 - E54 Dimension (P90 - E60 Number + P91 - E58 Measurement Unit)</dd><dt>remains (if skeletal remains)</dt><dd>P46 - E20 Biological Object - P39 - E16 Measurement - P40 - E54 Dimension (P90 - E60 Number + P91 - E58 Measurement Unit)</dd></dl></li>
+  <li class="node" data-node-id="54" data-x="-1487.8767981028484" data-y="458.80644846486416">
+    <span class="caption">Universal Attributes</span><dl class="properties"><dt>id</dt><dd>P48 - E42 Identifier</dd><dt>IdAssignment</dt><dd>P37 - E15 - P14 (assigned at DB-level)</dd><dt>note</dt><dd>P3 - E62 String</dd><dt>state</dt><dd>P44 - E3 Condition State</dd></dl></li>
+  <li class="node" data-node-id="61" data-x="942.6293043594007" data-y="262.80741228126476">
+    <span class="caption">:E4_Period</span>
+  </li>
+  <li class="relationship" data-from="1" data-to="3">
+    <span class="type">:P46_FORMS_PART_OF</span>
+  </li>
+  <li class="relationship" data-from="1" data-to="5">
+    <span class="type">:P46_FORMS_PART_OF</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="3">
+    <span class="type">:P46_FORMS_PART_OF</span><dl class="properties"><dt>certainty</dt><dd>certainty of assignment</dd></dl></li>
+  <li class="relationship" data-from="6" data-to="7">
+    <span class="type">:P127_HAS_BROADER_TERM</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="4">
+    <span class="type">:P2_HAS_TYPE</span>
+  </li>
+  <li class="relationship" data-from="8" data-to="3">
+    <span class="type">:P46_FORMS_PART_OF</span>
+  </li>
+  <li class="relationship" data-from="10" data-to="3">
+    <span class="type">:P46_FORMS_PART_OF</span>
+  </li>
+  <li class="relationship" data-from="10" data-to="4">
+    <span class="type">:P2_HAS_TYPE</span>
+  </li>
+  <li class="relationship" data-from="3" data-to="11">
+    <span class="type">:P2_HAS_TYPE</span><dl class="properties"><dt>certainty</dt><dd>certainty of assignment</dd></dl></li>
+  <li class="relationship" data-from="12" data-to="3">
+    <span class="type">:P46_IS_COMPOSED_OF</span>
+  </li>
+  <li class="relationship" data-from="12" data-to="13">
+    <span class="type">:P53_HAS_FORMER_OR_CURRENT_LOCATION</span>
+  </li>
+  <li class="relationship" data-from="13" data-to="14">
+    <span class="type">:P89_FALLS_WITHIN</span>
+  </li>
+  <li class="relationship" data-from="3" data-to="15">
+    <span class="type">:P10_FALLS_WITHIN</span><dl class="properties"><dt>type</dt><dd>aggregated</dd></dl></li>
+  <li class="relationship" data-from="15" data-to="16">
+    <span class="type">:P119_MEETS_IN_TIME_WITH</span>
+  </li>
+  <li class="relationship" data-from="17" data-to="15">
+    <span class="type">:P114_IS_EQUAL_IN_TIME_TO</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="18">
+    <span class="type">:P9_FORMS_PART_OF</span>
+  </li>
+  <li class="relationship" data-from="21" data-to="20">
+    <span class="type">:P70_DOCUMENTS</span><dl class="properties"><dt>page</dt><dd>exact page which documents this element</dd><dt>quote</dt><dd>quote which documents this element</dd></dl></li>
+  <li class="relationship" data-from="5" data-to="0">
+    <span class="type">:P10_FALLS_WITHIN</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="23">
+    <span class="type">:P7_TOOK_PLACE_AT</span>
+  </li>
+  <li class="relationship" data-from="6" data-to="15">
+    <span class="type">:X_P10_FALLS_WITHIN</span><dl class="properties"><dt>type</dt><dd>typological</dd></dl></li>
+  <li class="relationship" data-from="12" data-to="24">
+    <span class="type">:P2_HAS_TYPE</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="2">
+    <span class="type">:P45_CONSISTS_OF</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="19">
+    <span class="type">:P7_TOOK_PLACE_AT</span>
+  </li>
+  <li class="relationship" data-from="8" data-to="4">
+    <span class="type">:P2_HAS_TYPE</span><dl class="properties"><dt>certainty</dt><dd>certainty of assignment</dd></dl></li>
+  <li class="relationship" data-from="15" data-to="61">
+    <span class="type">:P118_OVERLAPS_IN_TIME_WITH</span>
+  </li>
+  <li class="relationship" data-from="21" data-to="22">
+    <span class="type">:AUTHOR</span><dl class="properties"><dt>shortcut</dt><dd>P94 - E65 Creation - P14</dd></dl></li>
+  <li class="relationship" data-from="3" data-to="27">
+    <span class="type">:S_P46_FORMS_PART_OF</span><dl class="properties"><dt>shortcut</dt><dd>P46 - E20 Biological Object - P46</dd><dt>certainty</dt><dd>certainty of assignment</dd></dl></li>
+  <li class="relationship" data-from="5" data-to="6">
+    <span class="type">:S_E17_TYPE_ASSIGNMENT</span><dl class="properties"><dt>shortcut</dt><dd>P41 - E17 Type Assignment - P42</dd><dt>assignedBy</dt><dd>P14 - E39 Actor</dd><dt>certainty</dt><dd>certainy of assignment</dd></dl></li>
+</ul>

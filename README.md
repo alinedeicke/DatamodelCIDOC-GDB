@@ -5,6 +5,6 @@ Files:
 * CIDOC CRM datamodel: The underlying structure of the domain according to the CIDOC CRM.
 * GDB datamodel: The condensed model for working with the graph database
 
-.txt-files are intended to be used with [arrows](https://github.com/apcj/arrows) by [Alistair Jones](https://github.com/apcj)
+.txt-files are intended to be used with [arrows](https://github.com/apcj/arrows) by [Alistair Jones](https://github.com/apcj). All files created with [arrows](https://github.com/apcj/arrows).
 
 Licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)

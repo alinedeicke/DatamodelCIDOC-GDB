@@ -1,5 +1,5 @@
 # DatamodelCIDOC-GDB
-Datamodel for a graph database based on the CIDOC CRM containing a selection of Late Bronze Age graves. Work in Progress, regularly updated as work on the database continues. Feedback welcome!
+Datamodel for a graph database based on the CIDOC CRM containing a selection of Late Bronze Age graves. Work in Progress, regularly updated as work on the database continues. Feedback welcome.
 
 Files:
 * CIDOC CRM datamodel: The underlying structure of the domain according to the CIDOC CRM.
